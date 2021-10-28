@@ -43,7 +43,7 @@
   <div align="center" >
  <a href=https://www.linkedin.com/in/anuj-sharma-1a5808b2/">
    <img src="https://img.icons8.com/nolan/50/linkedin.png"/> </a>
-	<a href="https://anujsharma.tech/">
+ <a href="https://aanuj.netlify.app/">
     <img src="https://img.icons8.com/nolan/50/domain.png"/>
   </a>
  </div>
