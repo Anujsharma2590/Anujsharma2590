@@ -46,6 +46,10 @@
  <a href="https://aanuj.netlify.app/">
     <img src="https://img.icons8.com/nolan/50/domain.png"/>
   </a>
+	<a href="https://twitter.com/anujsharma2590">
+    <img src="https://img.icons8.com/nolan/64/twitter-circled.png"/>
+  </a>						 
+							
  </div>
   
 
