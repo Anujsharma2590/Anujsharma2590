@@ -6,7 +6,7 @@
   <br><br>
 </div>
 
-- 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Qapita to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+- 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Travclan to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
 <br>
 📫 The best way to reach me is by email to aanuj.sharma2590@gmail.com.
